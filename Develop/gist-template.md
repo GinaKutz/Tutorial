@@ -46,4 +46,5 @@ Briefly summarize the regex you will be describing and what you will explain. In
 
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+Gina Kutz is a Stay at home mom who is new to coding and taking the class to work on a project for her son. 
+https://github.com/GinaKutz
